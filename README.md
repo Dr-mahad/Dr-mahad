@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **mahdiderow@gmail.com**
 
-- 📄 Know about my experiences [file:///C:/Users/Surface/OneDrive/Desktop/FOA-Hungry/Curriculum%20Vitae%20(Mahad%20Derow).pdf](file:///C:/Users/Surface/OneDrive/Desktop/FOA-Hungry/Curriculum%20Vitae%20(Mahad%20Derow).pdf)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1cCSQLIpeMNcDeYke9DDku2JOzbXJN25A/view?usp=drivesdk](https://drive.google.com/file/d/1cCSQLIpeMNcDeYke9DDku2JOzbXJN25A/view?usp=drivesdk)
 
 - ⚡ Fun fact **I successfully secured a highly competitive $30,000 research grant at Somali National University and was awarded the Dean's Award for Best Performing Graduate in Veterinary Medicine.**
 
