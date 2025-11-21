@@ -1,41 +1,62 @@
-<h1 align="center">Hi 👋, I'm Mahad Abdinur Derow</h1>
-<h3 align="center">A passionate veterinary scientist from Somalia</h3>
+# Hi 👋, I'm Mahad Abdinur Derow
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dr-mahad&label=Profile%20views&color=0e75b6&style=flat" alt="dr-mahad" /> </p>
+A passionate veterinary scientist from Somalia with expertise in livestock management, disease diagnostics, and molecular epidemiology.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dr-mahad" alt="dr-mahad" /></a> </p>
+## About Me
 
-- 🔭 I’m currently working on [Research articles](https://e-journal.unair.ac.id/JAVEST/article/view/58955)
+I graduated at the top of my class from Somali National University with a GPA of 4.95/5.0. I focus on integrating innovative technologies to enhance livestock productivity and promote sustainable farming practices. My research experience includes working as a Research Assistant and contributing to peer-reviewed publications. I aim to make a positive impact on the agricultural sector through advanced studies and research aimed at developing efficient livestock management strategies.
 
-- 🌱 I’m currently learning **Advanced Genetics, Molecular Epidemiology, Food safety and Risk Assesment**
+## Work Experience
 
-- 👯 I’m looking to collaborate on [Ugbaad, a transformative climate resilient agriculture project](https://www.fao.org/africa/news-stories/news-detail/fao-and-the-federal-government-of-somalia-launch-ugbaad--a-transformative-climate-resilient-agriculture-project/en)
+### Training - Introduction to Food Safety and Risk Assessment
+**Royal Veterinary College & International Livestock Research Institute (ILRI)**  
+*Mogadishu, Somalia*  
+**March 19, 2025 – July 19,2025**
+- Engaged in online training on food safety, risk assessment, and managing zoonotic diseases.
+- Developed skills in food safety protocols and risk management strategies.
 
-- 🤝 I’m looking for help with [SNU Veterinary Laboratory](https://vet.snu.edu.so/)
+### Livelihoods and Food Security Officer
+**Golweyne Relief Rehabilitation NGO (GRRN)**  
+*Baidoa, Somalia*  
+**March 10, 2024 – February 7, 2025**
+- Implemented food security programs for sustainable livestock management.
+- Analyzed livestock health data and designed interventions. 
 
-- 👨‍💻 All of my projects are available at [https://github.com/Dr-mahad](https://github.com/Dr-mahad)
+### Veterinary Internship
+**Dunyo Veterinary Service & BENALPA, Ministry of Livestock**  
+*Mogadishu, Somalia*  
+**January 1, 2023 – August 7, 2023**
+- Managed routine animal care and vaccination programs.
+- Conducted epidemiological studies on livestock diseases.
 
-- 📝 I regularly write articles on [https://medium.com/@mahdiderow](https://medium.com/@mahdiderow)
+## Research and Publications
 
-- 💬 Ask me about **Host-Parasite Interactions, Drug Resistance in Veterinary Medicine, Molecular Diagnostics**
+1. **Identification and Molecular Detection of Ascaris Galli from Smallholdings Poultry Farms in Mogadishu, Somalia**
+   - **Authors**: Nageye, H. I., Derow, M. A., et al.
+   - **Published In**: ARC Journal of Animal and Veterinary Sciences, 2025
+   - [Link to Research Article](https://www.researchgate.net/profile/Barre-Abdirahman/publication/390661227_Identification_and_Molecular_Detection_of_Ascaris_Galli_from_Smallholdings_Poultry_Farms_Mogadishu_Somalia/links/67f7b22d91535861140da381/Identification-and-Molecular-Detection-of-Ascaris-Galli-from-Smallholdings-Poultry-Farms-Mogadishu-Somalia.pdf)
 
-- 📫 How to reach me **mahdiderow@gmail.com**
+2. **Prevalence of Camel Mange and Associated Risk Factors in The Banadir Region, Somalia**
+   - **Authors**: Moktar Omar Sheikh Mohamed, Jeilani Buzuri Mio, et al.
+   - **Published In**: Journal of Applied Veterinary Science And Technology, 2024
+   - [Link to Research Article](https://doi.org/10.20473/javest.V5.I2.2024.146-151)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1cCSQLIpeMNcDeYke9DDku2JOzbXJN25A/view?usp=drivesdk](https://drive.google.com/file/d/1cCSQLIpeMNcDeYke9DDku2JOzbXJN25A/view?usp=drivesdk)
+## Contact Information
 
-- ⚡ Fun fact **I successfully secured a highly competitive $30,000 research grant at Somali National University and was awarded the Dean's Award for Best Performing Graduate in Veterinary Medicine.**
+- **Email**: [mahdiderow@gmail.com](mailto:mahdiderow@gmail.com)
+- **Phone**: (+252) 618580880
+- **LinkedIn**: [mahad-abdinur-derow-4a79b6213](https://linkedin.com/in/mahad-abdinur-derow-4a79b6213)
+- **Facebook**: [mahad.derow.7](https://www.facebook.com/mahad.derow.7)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/https://x.com/ashyamd?t=xypeonw2pswgptr_vgejaw&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/ashyamd?t=xypeonw2pswgptr_vgejaw&s=09" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mahad-abdinur-derow-4a79b6213" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahad-abdinur-derow-4a79b6213" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/mahad.derow.7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/mahad.derow.7/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/dr.mahadderow?igsh=n2w1djc0n2hrng45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/dr.mahadderow?igsh=n2w1djc0n2hrng45" height="30" width="40" /></a>
-<a href="https://medium.com/mahdiderow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="mahdiderow" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@mahdiderow6743" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@mahdiderow6743" height="30" width="40" /></a>
-</p>
+## Skills
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+- **Technical**: Livestock health management, veterinary diagnostics, disease control.
+- **Research**: Literature review, data collection, analysis, and visualization.
+- **Soft Skills**: Effective communication, problem-solving, organized execution.
+- **Professional**: Policy development, comprehensive livestock management, and engaging training.
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dr-mahad&show_icons=true&locale=en&layout=compact" alt="dr-mahad" /></p>
+## Fun Fact
+
+I secured a highly competitive $30,000 research grant at Somali National University and received the Dean's Award for Best Performing Graduate in Veterinary Medicine.
+
+---
