@@ -11,7 +11,7 @@ I graduated at the top of my class from Somali National University with a GPA of
 ### Training - Introduction to Food Safety and Risk Assessment
 **Royal Veterinary College & International Livestock Research Institute (ILRI)**  
 *Mogadishu, Somalia*  
-**March 19, 2025 – July 19,2025**
+**March 19, 2025 – July 19, 2025**
 - Engaged in online training on food safety, risk assessment, and managing zoonotic diseases.
 - Developed skills in food safety protocols and risk management strategies.
 
@@ -20,7 +20,7 @@ I graduated at the top of my class from Somali National University with a GPA of
 *Baidoa, Somalia*  
 **March 10, 2024 – February 7, 2025**
 - Implemented food security programs for sustainable livestock management.
-- Analyzed livestock health data and designed interventions. 
+- Analyzed livestock health data and designed interventions.
 
 ### Veterinary Internship
 **Dunyo Veterinary Service & BENALPA, Ministry of Livestock**  
@@ -34,12 +34,12 @@ I graduated at the top of my class from Somali National University with a GPA of
 1. **Identification and Molecular Detection of Ascaris Galli from Smallholdings Poultry Farms in Mogadishu, Somalia**
    - **Authors**: Nageye, H. I., Derow, M. A., et al.
    - **Published In**: ARC Journal of Animal and Veterinary Sciences, 2025
-   - [Link to Research Article](https://www.researchgate.net/profile/Barre-Abdirahman/publication/390661227_Identification_and_Molecular_Detection_of_Ascaris_Galli_from_Smallholdings_Poultry_Farms_Mogadishu_Somalia/links/67f7b22d91535861140da381/Identification-and-Molecular-Detection-of-Ascaris-Galli-from-Smallholdings-Poultry-Farms-Mogadishu-Somalia.pdf)
+   - [Link to Research Article]
 
 2. **Prevalence of Camel Mange and Associated Risk Factors in The Banadir Region, Somalia**
    - **Authors**: Moktar Omar Sheikh Mohamed, Jeilani Buzuri Mio, et al.
    - **Published In**: Journal of Applied Veterinary Science And Technology, 2024
-   - [Link to Research Article](https://doi.org/10.20473/javest.V5.I2.2024.146-151)
+   - [Link to Research Article]
 
 ## Contact Information
 
@@ -55,8 +55,6 @@ I graduated at the top of my class from Somali National University with a GPA of
 - **Soft Skills**: Effective communication, problem-solving, organized execution.
 - **Professional**: Policy development, comprehensive livestock management, and engaging training.
 
-## Fun Fact
+## Attachments
 
-I secured a highly competitive $30,000 research grant at Somali National University and received the Dean's Award for Best Performing Graduate in Veterinary Medicine.
-
----
+- [Download my CV](https://drive.google.com/file/d/1cJb80Up1EQI3h_bZsmj9WvhUbNWAkFhw/view?usp=sharing)
