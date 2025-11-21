@@ -4,7 +4,16 @@ A passionate veterinary scientist from Somalia with expertise in livestock manag
 
 ## About Me
 
-I graduated at the top of my class from Somali National University with a GPA of 4.95/5.0. I focus on integrating innovative technologies to enhance livestock productivity and promote sustainable farming practices. My experience includes roles as a Veterinary Technical Assistant and a Research Assistant, leading to several contributions to peer-reviewed publications. I strive to make a positive impact in the agricultural sector through advanced studies and research aimed at developing efficient livestock management strategies.
+I graduated at the top of my class from Somali National University with a GPA of 4.95/5.0. My focus is on integrating innovative technologies to enhance livestock productivity and promote sustainable farming practices. My experience includes roles as a Veterinary Technical Assistant and a Research Assistant, leading to several contributions to peer-reviewed publications. I strive to make a positive impact in the agricultural sector through advanced studies and research aimed at developing efficient livestock management strategies.
+
+## Contact Information
+
+Feel free to reach out:
+
+- **Email**: [mahdiderow@gmail.com](mailto:mahdiderow@gmail.com)
+- **Phone**: (+252) 618580880
+- **LinkedIn**: [Mahad Abdinur Derow](https://linkedin.com/in/mahad-abdinur-derow-4a79b6213)
+- **Facebook**: [mahad.derow.7](https://www.facebook.com/mahad.derow.7)
 
 ## Work Experience
 
@@ -19,7 +28,7 @@ I graduated at the top of my class from Somali National University with a GPA of
 **Golweyne Relief Rehabilitation NGO (GRRN)**  
 *Baidoa, Somalia*  
 **March 10, 2024 – February 7, 2025**
-- Implemented food security programs to promote sustainable livestock management practices.
+- Implemented food security programs for sustainable livestock management practices.
 - Analyzed livestock health data to design effective interventions that improve animal health outcomes.
 
 ### Veterinary Internship
@@ -40,6 +49,58 @@ I graduated at the top of my class from Somali National University with a GPA of
    - **Authors**: Moktar Omar Sheikh Mohamed, Jeilani Buzuri Mio, et al.
    - **Published In**: Journal of Applied Veterinary Science And Technology, 2024
    - [Link to Research Article](#)
+
+## Certifications
+
+- **Animal Behaviour and Welfare**  
+  Issued by: The University of Edinburgh  
+  Date: October 2025  
+  Credential ID: GYZ7R7HLYMGS  
+
+- **Introduction to Food Safety and Risk Assessment**  
+  Issued by: Royal Veterinary College  
+  Date: May 2025  
+
+- **One Health: Pandemic Preparedness, Prevention, and Response**  
+  Issued by: Politecnico di Milano  
+  Date: April 2025  
+  Credential ID: LT1HZEQM3CFO  
+
+- **One Health Workforce Academies**  
+  Issued by: USAID  
+  Date: February 2025  
+
+- **How to Manage a Poultry Farming Business**  
+  Issued by: Alison  
+  Date: December 2024  
+  Credential ID: 5100-1672917  
+
+- **Fundamentals of Food Security Management**  
+  Issued by: Alison  
+  Date: November 2024  
+  Credential ID: 5032-36272917  
+
+- **MEAL Essentials Certificate**  
+  Issued by: DisasterReady  
+  Date: November 2024  
+
+- **Food Safety: Good Manufacturing Practices (GMP) in the Food Industry**  
+  Issued by: Alison  
+  Date: August 2024  
+  Credential ID: 436016272917  
+
+- **Diploma in Human Resource (HR)**  
+  Issued by: Alison  
+  Date: July 2024  
+  Credential ID: 167817272917  
+
+- **Diploma in Veterinary Medicine**  
+  Issued by: Alison  
+  Date: May 2024  
+
+- **Animal Nutrition Feed Stuffs and Hygiene**  
+  Issued by: Alison  
+  Date: March 2024  
 
 ## Honors & Awards
 
@@ -87,13 +148,12 @@ I graduated at the top of my class from Somali National University with a GPA of
   - Comprehensive livestock management practices
   - Engaging training initiatives for community development
 
-
 ## Portfolio
 
 ### Projects and Contributions
 
 - **Camel Mange Research Project**
-  - **Description**: Conducted research to assess the prevalence of Camel Mange and its associated risk factors.
+  - **Description**: Conducted a study to assess the prevalence of Camel Mange and its associated risk factors.
   - **Outcome**: Findings published in the Journal of Applied Veterinary Science and Technology, which highlighted important management practices.
 
 - **Poultry Health Management Project**
@@ -103,13 +163,4 @@ I graduated at the top of my class from Somali National University with a GPA of
 - **Community Training Initiatives**
   - **Description**: Led training programs for Community Animal Health Workers to enhance local veterinary practices and disease management.
   - **Outcome**: Improved recognition of diseases and management strategies in farming communities.
-    
-  ## Contact Information
-Feel free to reach out:
-- **Email**: [mahdiderow@gmail.com](mailto:mahdiderow@gmail.com)
-- **Phone**: (+252) 618580880
-- **LinkedIn**: [Mahad Abdinur Derow](https://linkedin.com/in/mahad-abdinur-derow-4a79b6213)
-- **Facebook**: [mahad.derow.7](https://www.facebook.com/mahad.derow.7)
-  
-  ## Attachments
-- [Download my CV](https://drive.google.com/file/d/1cJb80Up1EQI3h_bZsmj9WvhUbNWAkFhw/view?usp=sharing)
+
