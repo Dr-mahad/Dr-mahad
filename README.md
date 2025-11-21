@@ -163,4 +163,9 @@ Feel free to reach out:
 - **Community Training Initiatives**
   - **Description**: Led training programs for Community Animal Health Workers to enhance local veterinary practices and disease management.
   - **Outcome**: Improved recognition of diseases and management strategies in farming communities.
+## Attachments
 
+- [Download my CV](https://drive.google.com/file/d/1FrYU9d_wNvdOblbIU9A8H7BtzbNqLciW/view?usp=sharing)
+- [View my Research Publication: Ascaris Galli Detection](https://www.researchgate.net/publication/390793700_Identification_and_Molecular_Detection_of_Ascaris_Galli_from_Smallholdings_Poultry_Farms_Mogadishu_Somalia)
+- [View my Research Publication: Camel Mange Prevalence](https://www.researchgate.net/publication/385937055_Prevalence_of_Camel_Mange_and_Associated_Risk_Factors_in_The_Banadir_Region_Somalia-Share_A_Like_40_International_Licence_CC-BY-SA)
+- [Download my Recommendations](https://drive.google.com/file/d/1FLNAg4PwqeILTD1YSj0dFUty9hVoZjcV/view?usp=sharing)
